@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Rectangle square = new Rectangle(5, 5);
+        Rectangle square = new Rectangle(5);
         Rectangle rec1 = new Rectangle(3, 8);
         Rectangle rec2 = new Rectangle(3, 8);
 
