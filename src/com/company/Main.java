@@ -29,5 +29,16 @@ public class Main {
         System.out.println(square.isTheSameRectangle(rec1));
         System.out.println(rec1.isTheSameRectangle(rec2));
         System.out.println(rec2.isTheSameRectangle(square));
+
+        System.out.println();
+        System.out.println();
+
+        //домашка №5
+        Rectangle.printRectanglesCount();
+
+        System.out.println();
+
+        Rectangle.printClassName(true);
+
     }
 }
